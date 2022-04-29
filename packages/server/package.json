@@ -1,0 +1,10 @@
+{
+  "name": "@server/core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@client/core": "^1.0.0",
+    "yup": "@latest"
+  }
+}
